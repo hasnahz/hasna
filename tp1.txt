@@ -1,0 +1,25 @@
+Objective: Deploy a simple static website using GitHub Pages. By the end of this exercise, you will have a live website accessible on the internet.
+
+Instructions:
+
+Prepare your basic HTML and CSS files for deployment.
+Use GitHub Pages to host your project online.
+Verify your website is accessible via the provided GitHub Pages URL.
+Steps:
+
+Step 1: Setting Up Your Project
+Rename your HTML file to index.html.
+Place all files (HTML, CSS) in a single folder.
+Step 2: Creating a GitHub Repository
+If you don’t have a GitHub account, create one at GitHub.
+Log in to GitHub and create a new repository by clicking the New button.
+Name the repository (e.g., my-static-website) and choose the Public option.
+Initialize the repository with a README file if you wish, but do not add any .gitignore or license files.
+Step 3: Uploading Files
+Once your repository is created, click Add file > Upload files to add your HTML, CSS, and any additional files to the repository.
+Commit the changes by clicking Commit changes after uploading your files.
+Step 4: Activating GitHub Pages
+Go to the Settings tab of your repository.
+Scroll down to the Pages section.
+Under Source, select the branch that contains your index.html file (usually main or master).
+GitHub will automatically generate a URL for your website, which will be accessible at https://username.github.io/repository-name (replace username with your GitHub username and repository-name with your repository name).
